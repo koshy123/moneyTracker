@@ -1,0 +1,6 @@
+html{
+	background-color: #ffdab3;
+}
+h1{
+	color: blue;
+}
